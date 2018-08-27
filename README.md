@@ -1,2 +1,2 @@
 # hello-world
-First repository 
+This is an edit that I, Eliot, have made. 
